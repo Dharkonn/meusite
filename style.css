@@ -2,3 +2,8 @@ body {
     color: white;
     background-color: purple;
 }
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
