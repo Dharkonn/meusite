@@ -27,3 +27,7 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+footer a {
+    margin: 20px;
+}
