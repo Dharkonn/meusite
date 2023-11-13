@@ -10,6 +10,11 @@ ul {
     padding: 16px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .center {
     text-align: center;
 }
