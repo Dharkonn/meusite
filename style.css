@@ -14,6 +14,10 @@ a {
     color: white;
 }
 
+li a {
+    color: rgb(190, 152, 226);
+}
+
 .center {
     text-align: center;
 }
